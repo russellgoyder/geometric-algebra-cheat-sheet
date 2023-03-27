@@ -61,7 +61,7 @@ Identity | Comment
 $b = \mathsf F(a) $ | Linear function (whose components form a matrix)
 $\mathsf F(\mu a + \nu b) = \mu\mathsf F(a) + \nu\mathsf F(b)$ | Linearity for vectors $a$ and $b$ and scalars $\mu$ and $\nu$
 $\mathsf F(a\wedge b)=\mathsf F(a) \wedge \mathsf F(b)$ | Action on a bivector
-$\mathsf F(\mu M + \nu N) = \mu \mathsf F(M) + \nu \mathsf F(N) \quad \& \quad \mathsf F(A_r) = \langle\mathsf F(A_r)\rangle_r$ | Linearity and grade-preservation for multivectors $M$ and $N$, and blade $A_r$
+$\mathsf F(\mu M + \nu N) = \mu \mathsf F(M) + \nu \mathsf F(N) \\ \mathsf F(A_r) = \langle\mathsf F(A_r)\rangle_r$ | Linearity and grade-preservation for multivectors $M$ and $N$, and blade $A_r$
 $a\cdot\overline{\mathsf F}(b) = \mathsf F(a)\cdot b$ | Definition of $\overline{\mathsf F}$, the adjoint (transpose) of $\mathsf F$
 $\langle A\,\overline{\mathsf F}(B)\rangle = \langle\mathsf F(A) \, B \rangle \qquad (\bullet)$ | Multivector version of above definition of adjoint
 $A_r\cdot \overline{\mathsf F}(B_s) = \overline{\mathsf F}\left(\mathsf F(A_r)\cdot B_s\right) \qquad r\leq s \qquad \phantom{(\dagger)}$| Combine definition of adjoint with $(*)$, eg for $A_r = a$ and $B_s = b\wedge c$
