@@ -64,7 +64,7 @@ $\mathsf F(a\wedge b)=\mathsf F(a) \wedge \mathsf F(b)$ | Action on a bivector
 $\mathsf F(\mu M + \nu N) = \mu \mathsf F(M) + \nu \mathsf F(N) \\ \mathsf F(A_r) = \langle\mathsf F(A_r)\rangle_r$ | Linearity and grade-preservation for multivectors $M$ and $N$, and blade $A_r$
 $a\cdot\overline{\mathsf F}(b) = \mathsf F(a)\cdot b$ | Definition of $\overline{\mathsf F}$, the adjoint (transpose) of $\mathsf F$
 $\langle A\,\overline{\mathsf F}(B)\rangle = \langle\mathsf F(A) \, B \rangle \qquad (\bullet)$ | Multivector version of above definition of adjoint
-$A_r\cdot \overline{\mathsf F}(B_s) = \overline{\mathsf F}\left(\mathsf F(A_r)\cdot B_s\right) \qquad r\leq s \qquad \phantom{(\dagger)}$| Combine definition of adjoint with $(*)$, eg for $A_r = a$ and $B_s = b\wedge c$
+$A_r\cdot \overline{\mathsf F}(B_s) = \overline{\mathsf F}\left(\mathsf F(A_r)\cdot B_s\right) \qquad r\leq s \qquad $| Combine definition of adjoint with $(*)$, eg for $A_r = a$ and $B_s = b\wedge c$
 $\mathsf F(A_r)\cdot B_s = \overline{\mathsf F}\left(A_r\cdot \overline{\mathsf F}(B_s)\right) \qquad r\geq s \qquad (\dagger)$ | Combine definition of adjoint with $(*)$, eg for $A_r = a\wedge b$ and $B_s = c$
 $R = nm = \exp(-\hat B\theta/2) = \cos(\theta/2) - \hat B\sin(\theta/2)$ | Rotor $R$ from vectors $m$ and $n$ where $m\cdot n = \cos\theta$, $\hat B = \frac{m\wedge n}{\sin(\theta/2)}$ and $\hat B^2 = -1$
 $\mathsf F(M) = RM\tilde R$ | Multivector $M$ rotated by angle $\theta$ in $\hat B$ plane
