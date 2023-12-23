@@ -8,7 +8,7 @@ Identities and key results in Geometric Algebra that are useful to me and hopefu
 
 Formula | Comment
 :-----: | -------
-\\(ab = a \cdot b + a \wedge b\\) | Geometric product of two vectors $a$ and $b$
+$ab = a \cdot b + a \wedge b$ | Geometric product of two vectors $a$ and $b$
 $a \cdot b = \frac{1}{2}\left( ab + ba\right)$ | Inner product of two vectors as symmetric part of geometric product
 $a \wedge b = \frac{1}{2}\left( ab - ba\right)$ | Exterior product of two vectors as antisymmetric part of geometric product
 
