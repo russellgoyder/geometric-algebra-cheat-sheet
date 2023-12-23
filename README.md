@@ -1,3 +1,5 @@
+{% include head.html %}
+
 # Geometric Algebra Cheat Sheet
 
 Identities and key results in Geometric Algebra that are useful to me and hopefully others 
