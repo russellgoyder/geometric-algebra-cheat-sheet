@@ -76,7 +76,7 @@ Identity | Comment
 $\mathsf F(I) = \det(\mathsf F)\, I$ | Definition of determinant, as volume scale factor for $\mathsf F$
 $\det(\mathsf F\mathsf G)\,I = \det(\mathsf F)\det(\mathsf G)\, I$ | Because $\det(\mathsf F\mathsf G)\,I = \mathsf F\mathsf G(I) = \det(\mathsf G)\, \mathsf F(I) = \det(\mathsf F)\det(\mathsf G)\, I$ using the above definition
 $\det(\mathsf F) = \det(\overline{\mathsf F})$ | Because $\det(\mathsf F) = \langle\mathsf F(I)I^{-1}\rangle = \langle I\overline{\mathsf F}(I^{-1})\rangle = \langle \overline{\mathsf F}(I^{-1})I\rangle = \det(\overline{\mathsf F})$ using $(\bullet)$
-$\mathsf F^{-1}(M) = \frac{1}{\det(\mathsf F)} I \overline{\mathsf F}(I^{-1}M)$ | Inverse of $\mathsf F$. Holds also when $\mathsf F \rightarrow \overline{\mathsf F}$. From definition of determinant, multiply by arbitrary multivector $N$: $\det(\mathsf F)IN = \mathsf F(I)N = \mathsf F\left(I\overline{\mathsf F}(N)\right)$ using $(\dagger)$ and that $\mathsf F(I)\cdot N = \mathsf F(I)N$ and $I\cdot \overline{\mathsf F}(N) = I\overline{\mathsf F}(N)$. Now let $M = IN$ and apply $\mathsf F^{-1}$ to both sides.
+$\mathsf F^{-1}(M) = \frac{1}{\det(\mathsf F)} I \overline{\mathsf F}(I^{-1}M)$ | Inverse of $\mathsf F$. Holds also when $\mathsf F \rightarrow \overline{\mathsf F}$. From definition of determinant, multiply by arbitrary multivector $N$: $$\det(\mathsf F)IN = \mathsf F(I)N = \mathsf F\left(I\overline{\mathsf F}(N)\right)$$ using $(\dagger)$ and that $\mathsf F(I)\cdot N = \mathsf F(I)N$ and $I\cdot \overline{\mathsf F}(N) = I\overline{\mathsf F}(N)$. Now let $M = IN$ and apply $\mathsf F^{-1}$ to both sides.
 
 ---
 
