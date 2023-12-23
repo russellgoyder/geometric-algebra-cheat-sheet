@@ -1,4 +1,4 @@
-{% include head.html %}
+<!-- {% include head.html %} -->
 
 # Geometric Algebra Cheat Sheet
 
