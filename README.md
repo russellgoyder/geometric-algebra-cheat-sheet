@@ -1,12 +1,8 @@
 {% include head.html %}
 
-# Geometric Algebra Cheat Sheet
-
-Identities and key results in Geometric Algebra that are useful to me and hopefully others 
-
 ## Geometric Product
 
-Formula | Comment
+Identity | Comment
 :-----: | -------
 $ab = a \cdot b + a \wedge b$ | Geometric product of two vectors $a$ and $b$
 $a \cdot b = \frac{1}{2}\left( ab + ba\right)$ | Inner product of two vectors as symmetric part of geometric product
