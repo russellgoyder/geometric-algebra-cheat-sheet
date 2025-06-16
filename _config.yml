@@ -5,3 +5,5 @@ kramdown:
 title: Geometric Algebra Cheat Sheet
 description: Identities and key results in Geometric Algebra that are useful to me and hopefully others
 show_downloads: false
+github:
+  owner_url: https://russellgoyder.ca
